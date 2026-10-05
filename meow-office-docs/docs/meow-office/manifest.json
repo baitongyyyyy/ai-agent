@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-05",
+  "root": "docs/meow-office",
+  "documents": [
+    {
+      "path": "README.md",
+      "title": "Meow Office — Shared project knowledge"
+    },
+    {
+      "path": "01-requirements.md",
+      "title": "Requirements"
+    },
+    {
+      "path": "02-product-design.md",
+      "title": "Product / UX design"
+    },
+    {
+      "path": "03-architecture.md",
+      "title": "Architecture"
+    },
+    {
+      "path": "04-agent-workflow.md",
+      "title": "Agent workflow"
+    },
+    {
+      "path": "05-api-data-model.md",
+      "title": "API and data model"
+    },
+    {
+      "path": "06-user-guide.md",
+      "title": "User guide"
+    },
+    {
+      "path": "07-setup-deployment.md",
+      "title": "Setup and deployment"
+    },
+    {
+      "path": "08-current-status.md",
+      "title": "Current status / audit"
+    },
+    {
+      "path": "09-roadmap-verification.md",
+      "title": "Roadmap and verification"
+    },
+    {
+      "path": "10-shared-knowledge.md",
+      "title": "Shared knowledge contract"
+    },
+    {
+      "path": "11-decisions.md",
+      "title": "Decisions"
+    }
+  ]
+}
